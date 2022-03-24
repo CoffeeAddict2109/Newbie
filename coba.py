@@ -1,2 +1,5 @@
 print("Hello World")
 print("Kamu cantik")
+print(2+4)
+print(4/2)
+print("Kamu cantik pake banget")
